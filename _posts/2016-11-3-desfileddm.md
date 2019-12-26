@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Desfile: Día de muertos 2016
+title: Desfile día de muertos 2016
 ---
 El Sábado pasado fuí al centro con mi novia a ver el anunciadisimo desfile de día de muertos, varias cosas que comentar/criticar de éste
 
