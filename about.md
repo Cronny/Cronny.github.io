@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
 ---
 
-Some information about you!
+Un humano.
 
-### More Information
+Estudiante de Ciencias de la Computación.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Obtendrás más información sobre mi leyendo mis posts.
