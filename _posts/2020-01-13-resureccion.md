@@ -8,7 +8,7 @@ mil cosas desde la última vez, aqui... y realmente me entristece que sea así, 
 es algo que me gusta y libera un montón, pero los tiempos siempre me exigían gastar mi tiempo
 en otras cosas.
 
-Pero llegó la hora de vomitar textualmente todos estos dos años pasados.
+Pero llegó la hora de vomitar textualmente estos dos años pasados.
 Un pequeño resumen: Me fui a vivir con 2 de mis mejores amigos y después de un año el casero
 no soportó el estilazo de vida que llevábamos y nos mandó a la chingada u.u pero de algún modo
 ese año de _libertad_ me cambió la mirilla de la vida, ahora soy mucho más cercano a mis amigos,
