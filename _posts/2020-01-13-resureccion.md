@@ -1,3 +1,8 @@
+---
+layout: post
+title: Resurección
+---
+
 Han pasado (casi) dos años desde la última vez que escribí aqui; han pasado (casi)
 mil cosas desde la última vez, aqui... y realmente me entristece que sea asi, publicar mis pensamientos
 es algo que me gusta y libera un montón, pero los tiempos siempre me exigían gastar mi tiempo
