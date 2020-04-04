@@ -24,7 +24,7 @@ que pudimos haber tomado, nuestra línea del tiempo se bifurca en vidas completa
 Cada una de estas bifurcaciones, además, es exactamente igual de rica y compleja que su vecina y que cada bifuración que salga de ellas. Es una visión abrumadora, sofocante de la existencia.
 
 Ahora recordemos la definición de un árbol en computación. No definimos a un árbol directamente, lo hacemos a través de sus elementos: los nodos. Estos
-Solo se definen por su contenido y otros nodos adyacentes a él; en abstracto cada nodo es idéntico a sus vecinos. Esta definición recursiva comparte la esencia abrumadora y abstracta de la visión que tiene Borges del tiempo.
+solo se definen por su contenido y otros nodos adyacentes a él; todos son estructuralmente idénticos únicamente diferenciables por lo que guardan. Esta definición recursiva comparte la esencia abrumadora y abstracta de la visión que tiene el autor del tiempo.
 
 Borges nos da una idea de lo sobrehumano que sería tener una noción de todos los caminos posibles, de lo diferente que sería tener información
 sobre lo que pasa en nodos temporales distintos al nuestro. Y justo de esto se aprovechan las computadoras, es la gran ventaja que tienen sobre
